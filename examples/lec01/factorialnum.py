@@ -5,3 +5,4 @@ def factorialnum(n):
 # 测试一下
 num = int(input("输入1个非负整数："))
 print(f" {num} 的阶乘是 {factorialnum(num)}")
+print("Test form VS2022")
