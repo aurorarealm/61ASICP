@@ -1,4 +1,5 @@
 #lang scheme
+;这个代码的目的是求平方根。
 
 ;1 主函数：涉及3个函数，自身、good-enough?、improve
 (define (sqrt-iter guess x)
